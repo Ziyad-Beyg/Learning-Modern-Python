@@ -18,7 +18,8 @@ Python supports a variety of operators, which can be categorized as:
   - `*` : Multiplication
   - `/` : Division
   - `%` : Modulus
-  ![Alt text](images/Whiteboard[2]-01.png)
+
+    ![Alt text](images/Whiteboard[2]-01.png)
   - `**`: Exponentiation
   - `//`: Floor division
   
@@ -26,7 +27,6 @@ Python supports a variety of operators, which can be categorized as:
 - **Logical Operators**: `and`, `or`, `not`, `:=`
 - ... and many more.
 
-For a comprehensive list, refer to the [official Python documentation](https://docs.python.org/3/reference/operators.html).
 
 ## Comments
 
