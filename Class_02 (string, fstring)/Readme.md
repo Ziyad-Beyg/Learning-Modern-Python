@@ -1,6 +1,5 @@
 # String Formatting and Definitions in Python with Static Typing
 
-
 ## Table of Contents
 
 - [String Definitions](#string-definitions)
