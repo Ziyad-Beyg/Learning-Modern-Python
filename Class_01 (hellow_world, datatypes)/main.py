@@ -3,8 +3,5 @@ name : str = 600 # this is a type error, because "name" type is string but we in
 print(name)
 
 
-
-
-
 country: str = "Pakistan Zindabad!"
 print(country)
